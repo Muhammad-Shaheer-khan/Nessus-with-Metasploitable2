@@ -33,7 +33,7 @@ https://<System_IP>:8834/
 ## Detailed Guide 📘
 
 For a detailed understanding with screenshots, download the PDF guide:
-[Vulnerability Management with Nessus.pdf](https://github.com/your-repo-link/Vulnerability-Management-with-Nessus.pdf)
+[Vulnerability Management with Nessus.pdf](https://github.com/Nessus-with-Metasploitable2/Vulnerability-Management-with-Nessus.pdf)
 
 You can also read the full blog post for an in-depth guide and workflow:
 [Vulnerability Management with Nessus: A Step-by-Step Guide](https://medium.com/@shaheerk2233/vulnerability-management-with-nessus-a-step-by-step-guide-cd321bde018a)
